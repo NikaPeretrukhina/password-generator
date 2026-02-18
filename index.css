@@ -41,7 +41,7 @@ p{
     font-weight: 400;
     
     padding: 10px 16px;
-    border-radius: 10px;
+    border-radius: 5px;
     border: 0;
     background: #10B981;
     color: white;
@@ -58,9 +58,9 @@ p{
 #first-random-pass{
     background: #273549;
     color: #5DEF92;
-    border-radius: 10px;
-    height: 30px;
-    width: 170px;
+    border-radius: 5px;
+    height: 40px;
+    width: 220px;
     margin: 20px;
     display: flex;
     align-items: center;      
@@ -69,9 +69,9 @@ p{
 #second-random-pass{
     background: #273549;
     color: #5DEF92;
-    border-radius: 10px;
-    height: 30px;
-    width: 170px;
+    border-radius: 5px;
+    height: 40px;
+    width: 220px;
     margin: 20px;
 
     display: flex;
