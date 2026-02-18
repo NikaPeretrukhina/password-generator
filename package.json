@@ -1,14 +1,12 @@
 {
-  "name": "Scrim-s04k02i",
-  "description": "https://scrimba.com/learn-javascript-c0v/~03f",
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "A simple password generator built with JavaScript",
+  "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "start": "node index.js"
   },
-  "dependencies": {
-    "vite": "latest"
-  },
-  "devDependencies": {}
+  "author": "Dein Name",
+  "license": "MIT",
+  "dependencies": {}
 }
