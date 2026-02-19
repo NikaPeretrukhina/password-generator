@@ -25,3 +25,16 @@ generateBtn.addEventListener("click", function(){
    
     
 })
+
+firstRandomPass.addEventListener("click", function(){
+
+    let text = firstRandomPass.textContent
+    navigator.clipboard.writeText(text);
+    firstRandomPass.textContent = "Copied!"
+})
+secondRandomPass.addEventListener("click", function(){
+
+    let text = secondRandomPass.textContent
+    navigator.clipboard.writeText(text);
+    secondRandomPass.textContent = "Copied!"
+})
